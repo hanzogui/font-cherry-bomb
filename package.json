@@ -1,6 +1,6 @@
 {
   "name": "@hanzogui/font-cherry-bomb",
-  "version": "5.0.0",
+  "version": "7.0.0",
   "files": [
     "types",
     "dist",
@@ -36,11 +36,11 @@
     "clean:build": "hanzo-gui-build clean:build"
   },
   "dependencies": {
-    "@hanzogui/constants": "^5.0.0",
-    "@hanzogui/core": "^5.0.0"
+    "@hanzogui/constants": "^7.0.0",
+    "@hanzogui/core": "^7.0.0"
   },
   "devDependencies": {
-    "@hanzogui/build": "^2.0.0",
+    "@hanzogui/build": "^7.0.0",
     "subset-font": "^2.1.0"
   },
   "skipPublishIfUnchanged": false
